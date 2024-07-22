@@ -902,7 +902,7 @@ You'll receive an email once the data is imported.
 
 ### MaxMind integration
 
-To use MaxMind you need to create an account [here.](https://www.maxmind.com/en/geolite2/signup) Once you have your account details, you can add [MAXMIND_LICENSE_KEY](#maxmind_license_key) and [MAXMIND_EDITION](#maxmind_edition) environmental valiables to your [plausible-conf.env](./plausible-conf.env) and the databases would be automatically downloaded and kept up to date. Note that using city-level databases like MaxMind's GeoLite2-City requires ~1GB more RAM.
+To use MaxMind you need to create an account [here.](https://www.maxmind.com/en/geolite2/signup) Once you have your account details, you can add [MAXMIND_LICENSE_KEY](#maxmind_license_key) and [MAXMIND_EDITION](#maxmind_edition) environmental variables to your [plausible-conf.env](./plausible-conf.env) and the databases would be automatically downloaded and kept up to date. Note that using city-level databases like MaxMind's GeoLite2-City requires ~1GB more RAM.
 
 ## FAQ
 
